@@ -9,8 +9,7 @@
 This crate is pre‑1.0. Security fixes will be applied to the latest release.
 
 ## Reporting a vulnerability
-Please report security issues privately:
-- Email: jac@jac.app
+Please report security issues privately.
 
 Include:
 - A clear description and impact.
